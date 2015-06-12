@@ -1,14 +1,13 @@
 'use strict';
 
-/**
- * @ngdoc function
- * @name angularBlogDemoApp.controller:MainCtrl
- * @description
- * # MainCtrl
- * Controller of the angularBlogDemoApp
- */
 angular.module('angularBlogDemoApp')
-
+  /**
+   * @ngdoc function
+   * @name angularBlogDemoApp.controller:MainCtrl
+   * @description
+   * # MainCtrl
+   * Primary Controller of the angularBlogDemoApp
+   */
   .controller('MainCtrl', function () {
 
 
