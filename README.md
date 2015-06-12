@@ -1,5 +1,5 @@
 # Prod Angular Demo
-This application is a simple quickstart used to accompany my intro to angular js 1.x talk for Red Hat productization.
+This application is the err "model" solution, if you will, going a little further than I managed to get in presentation 1.
 
 ### Setting Up The Development Environment
 
